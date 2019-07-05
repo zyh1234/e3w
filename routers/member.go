@@ -1,8 +1,8 @@
 package routers
 
 import (
-	"github.com/coreos/etcd/clientv3"
-	"github.com/coreos/etcd/etcdserver/etcdserverpb"
+	"github.com/etcd-io/etcd/clientv3"
+	"github.com/etcd-io/etcd/etcdserver/etcdserverpb"
 	"github.com/gin-gonic/gin"
 )
 

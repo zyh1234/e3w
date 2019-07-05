@@ -22,7 +22,7 @@
 
 
 [[constraint]]
-  name = "github.com/coreos/etcd"
+  name = "github.com/etcd-io/etcd"
   version = "3.2.10"
 
 [[constraint]]

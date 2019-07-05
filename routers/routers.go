@@ -1,7 +1,7 @@
 package routers
 
 import (
-	"github.com/coreos/etcd/clientv3"
+	"github.com/etcd-io/etcd/clientv3"
 	"github.com/gin-gonic/gin"
 	"github.com/soyking/e3ch"
 	"github.com/soyking/e3w/conf"
